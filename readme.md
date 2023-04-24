@@ -18,13 +18,14 @@
 npm install
 ```
 
-4. 執行網站，使用 nodemon 啟動網站伺服器
+4. 執行網站，進入到專案資料夾中輸入:
 
 ```
-nodemon app.js
+npm run start
 ```
 
 5. 開啟瀏覽器輸入 localhost:3000 即可執行網站
+6. 在終端機按下 ctrl + c 結束執行。
 
 ## 開發工具
 
